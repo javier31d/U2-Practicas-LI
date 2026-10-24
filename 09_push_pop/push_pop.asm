@@ -9,7 +9,7 @@
 INCLUDE Irvine32.inc
 
 .data
-; No se requieren variables globales para esta práctica.
+
 
 .code
 main PROC
